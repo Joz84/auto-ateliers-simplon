@@ -6,3 +6,7 @@ Voici la liste des ateliers :
 - Jojo
 - Clolo
 
+## C8 : <a href="https://www.notion.so/Comp-tence-C8-43392c11755043b686c31086bd1b1d4c">Compétence C8</a>
+- Julie
+- Fatima
+- Thibault.
