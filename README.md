@@ -6,3 +6,5 @@ Voici la liste des ateliers :
 - Jojo
 - Clolo
 
+Voici le lien du Notion Compétence C10 : signé fati
+https://www.notion.so/Intro-Git-165c39fb99e94c90a1fe97667111d028
