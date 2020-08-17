@@ -12,3 +12,7 @@ Voici la liste des ateliers :
 - Lucas
 - Chloé
 
+##C9 : <a href="https://www.notion.so/C9-Autocontr-ler-tout-au-long-du-processus-de-d-veloppement-la-coh-rence-des-donn-es-et-la-confo-70dafbe9cfe44d88ae195ba14aadc89c">Autocontroler les données</a>
+- Isabelle
+- Lucas
+- Chloé
