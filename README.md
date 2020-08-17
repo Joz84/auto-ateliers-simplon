@@ -6,4 +6,5 @@ Voici la liste des ateliers :
 - Jojo
 - Clolo
 - Perrine
+- Muriel
 
