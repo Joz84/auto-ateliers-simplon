@@ -6,3 +6,6 @@ Voici la liste des ateliers :
 - Jojo
 - Clolo
 
+voici le lien notion pour la compétence C4 : 
+
+https://www.notion.so/Blanc-manger-C4C4-60e234c31bd84f5b933099f1c32fdbfb
