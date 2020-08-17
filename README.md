@@ -2,7 +2,7 @@
 
 Voici la liste des ateliers :
 
-## <a href="">Mon affiche au mur</a>
+## C0 : <a href="">Mon affiche au mur</a>
 - Jojo
 - Clolo
 - Perrine
