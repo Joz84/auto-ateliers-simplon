@@ -7,3 +7,8 @@ Voici la liste des ateliers :
 - Clolo
 - Perrine
 
+##C2 : <a href="https://www.notion.so/C2-Acqu-rir_Nettoyer_Structurer-Les-donn-es-d1c0a8dee97e41918fdbbf9e5459daed"> Acquerir, combiner et structurer les donnees</a>
+- Muriel
+- Lucas
+- Chloé
+
