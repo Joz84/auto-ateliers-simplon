@@ -2,7 +2,7 @@
 
 Voici la liste des ateliers :
 
-## C0 : <a href="https://github.com/Joz84/auto-ateliers-simplon/blob/master/exemple_de_projet/c0.md">Mon affiche au mur</a>
+## C0 : <a href="https://www.notion.so/Vision-ing-ec1bce856c7d41aeb9c37a0dbe88cca3">Mon affiche au mur</a>
+
 - Jojo
 - Clolo
-
