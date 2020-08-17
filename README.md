@@ -10,3 +10,11 @@ Voici la liste des ateliers :
 - Julie
 - Fatima
 - Thibault.
+
+
+
+## C11 : <a href="https://www.notion.so/C11-Recherche-de-solution-ef664ee50f764461bab8d90e24c7ab14">Compétence C11</a>
+
+- Deborah
+- Camille 
+- Thibault
