@@ -1,8 +1,9 @@
 # Création d'un atelier par les apprenants
 
-Voici la liste des ateliers :
+Voici le lien vers le N.O.T.I.O.N :
 
-## C0 : <a href="https://github.com/Joz84/auto-ateliers-simplon/blob/master/exemple_de_projet/c0.md">Mon affiche au mur</a>
-- Jojo
-- Clolo
+## C7 : <a href="https://www.notion.so/Vision-ing-ec1bce856c7d41aeb9c37a0dbe88cca3">N O T I O N</a>
 
+- Muriel
+- Maxim
+- Voja
